@@ -58,12 +58,12 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/ldyhm_eighty" target="_blank">
+  <a href="https://www.instagram.com/ldyhm._.py" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=E1306C" />
   </a>
 
   <!-- TikTok -->
-  <a href="https://www.tiktok.com/@ldyhm_eighty" target="_blank">
+  <a href="https://www.tiktok.com/@ldyhm._.py" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=00f2ea" />
   </a>
 
