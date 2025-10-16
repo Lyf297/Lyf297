@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="600" alt="Dark coding vibe">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" alt="Typing animation">
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#00bfff;">Laudy Ilham Fahrizal</span> 👋</h1>
