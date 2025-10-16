@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="600" alt="Man coding in dark mode">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="600" alt="Man coding in dark mode">
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#00bfff;">Laudy Ilham Fahrizal</span> 👋</h1>
