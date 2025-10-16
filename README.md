@@ -1,6 +1,6 @@
-<!-- Banner / Header GIF -->
+<!-- Header GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0d/4a/8e/0d4a8e879e2ccf631e3d2b3c0e8ff9b1.gif" width="600" alt="Coding GIF">
+  <img src="https://i.pinimg.com/originals/64/8b/12/648b1258fae74c6c26f21f8cb184c7cf.gif" width="600" alt="Programmer coding in dark theme">
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#00bfff;">Laudy Ilham Fahrizal</span> 👋</h1>
