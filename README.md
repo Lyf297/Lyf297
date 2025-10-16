@@ -17,7 +17,6 @@
 - 💻 Skilled in **Graphic Design** and **Web Development**  
 - 🧠 Currently learning **HTML**,**CSS**,**JavaScript**, **Python**, and **UI/UX Design**  
 - 🎨 Love to explore creative ideas through code and design  
-- ✉️ Reach me at: **laudiilham@gmail.com** 
 
 ---
 
