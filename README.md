@@ -44,9 +44,11 @@
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="lyf297's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lyf297?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyf297&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
+</p> -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyf297&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Lyf297's GitHub Stats" />
 
 
 ---
