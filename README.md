@@ -40,14 +40,14 @@
 
 <p align="center">
  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lyf297&show_icons=true&theme=tokyonight" /> -->
-  <img https://awesome-github-stats.azurewebsites.net/user-stats/lyf297?cardType=github&theme=github-dark&preferLogin=false />
 </p> 
+
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="lyf297's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lyf297?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyf297&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="lyf297's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lyf297?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 
 ---
 
