@@ -40,7 +40,7 @@
 
 <p align="center">
  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lyf297&show_icons=true&theme=tokyonight" /> -->
-  <img width="48%" https://awesome-github-stats.azurewebsites.net/user-stats/lyf297?cardType=github&theme=github-dark&preferLogin=false />
+  <img https://awesome-github-stats.azurewebsites.net/user-stats/lyf297?cardType=github&theme=github-dark&preferLogin=false />
 </p> 
 
 <p align="center">
