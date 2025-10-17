@@ -6,6 +6,10 @@
 <h1 align="center">Hi there, I'm <span style="color:#00bfff;">Laudy Ilham Fahrizal</span> 👋</h1>
 
 <p align="center">
+  <img src=https://github-profile-trophy.vercel.app/?username=deaafrizal&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3" alt="Trophies" />
+</p>
+
+<p align="center">
   <em>💡 A passionate learner in <b>Design Graphics</b> & <b>Web Development</b></em>
 </p>
 
