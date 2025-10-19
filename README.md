@@ -6,21 +6,21 @@
 <h1 align="center">Hi there, I'm <span style="color:#00bfff;">Laudy Ilham Fahrizal</span> 👋</h1>
 
 <p align="center">
-  <em>💡 A passionate learner in <b>Design Graphics</b> & <b>Web Development</b></em>
+  <em> A passionate learner in <b>Design Graphics</b> & <b>Web Development</b></em>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
-- 🏫 Student at **SMKN 1 SINGGAHAN**  
-- 💻 Skilled in **Graphic Design** and **Web Development**  
-- 🧠 Currently learning **HTML**,**CSS**,**JavaScript**, **Python**, and **UI/UX Design**  
-- 🎨 Love to explore creative ideas through code and design  
+-  Student at **SMKN 1 SINGGAHAN**  
+-  Skilled in **Graphic Design** and **Web Development**  
+-  Currently learning **HTML**,**CSS**,**JavaScript**, **Python**, and **UI/UX Design**  
+-  Love to explore creative ideas through code and design  
 
 ---
 
-### 🛠️ Tools & Skills
+###  Tools & Skills
 
 #### 🔹 Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-FF6C37?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="center">
  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lyf297&show_icons=true&theme=tokyonight" /> -->
@@ -53,7 +53,7 @@
 
 ---
 
-### ☕ Let's Connect
+###  Let's Connect
 
 <p align="center">
   <!-- GitHub -->
