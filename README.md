@@ -47,10 +47,6 @@
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyf297&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyf297&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Lyf297's GitHub Stats" /> -->
-
-
 ---
 
 ###  Let's Connect
@@ -62,12 +58,12 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/ldyhm._.py" target="_blank">
+  <a href="https://www.instagram.com/ldyhm.py" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=E1306C" />
   </a>
 
   <!-- TikTok -->
-  <a href="https://www.tiktok.com/@ldyhm._.py" target="_blank">
+  <a href="https://www.tiktok.com/@ldyhm.py" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=00f2ea" />
   </a>
 
@@ -78,7 +74,7 @@
 
   <!-- Facebook -->
  <!--
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+  <a href="https://www.facebook.com/lyf" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   -->
